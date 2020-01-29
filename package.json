@@ -2,7 +2,7 @@
   "name": "chat-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/silsilas.github.io/chatApp",
+  "homepage": "https://silsilas.github.io/chatApp",
   "engines": {
     "node": "12.13.0",
     "npm": "6.12.1"
