@@ -8,7 +8,7 @@ import SignupComponent from './Signup/signup';
 import DashboardComponent from './Dashboard/dashboard';
 
 const firebase = require("firebase");
-require("firebase/firestore"); // Required for side-effects?????
+require("firebase/firestore"); 
 
 firebase.initializeApp({
   apiKey: "AIzaSyAzdGal6uY3mKPa7vlO30EgohIFThBMGRs",
